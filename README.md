@@ -12,9 +12,9 @@
   <a href="https://github.com/ColomboAI-com/cairo-releases/releases/download/v2.0.3/Cairo-2.0.3-mac-arm64.dmg"><img src="https://img.shields.io/badge/Mac%20Desktop-Apple%20Silicon%20DMG-20C997?style=for-the-badge" alt="Cairo Mac desktop download"></a>
 </p>
 
-> Proprietary operational intelligence designed around the way you actually work.
+> The first AI agent prebuilt with a powerful AI model that is free to use.
 
-Cairo Super Agent is a proprietary intelligence system designed to operate, learn, heal, improve, and execute continuously across workflows, companies, software systems, and connected operational environments.
+Cairo Super Agent comes prebuilt with a powerful, free-to-use AI model and is designed to operate, learn, heal, improve, and execute continuously across workflows, companies, software systems, and connected operational environments.
 
 **Cairo Conscious Harness is the underlying technical architecture. Cairo Super Agent is the product identity and customer-facing outcome.**
 
@@ -138,7 +138,7 @@ Cairo Software Engineer is the autonomous engineering surface for large codebase
 
 ## About
 
-Cairo Super Agent is not a chatbot, a simple coding assistant, or a thin wrapper around a model API. It is a proprietary operational intelligence system built on the Cairo Conscious Harness architecture.
+The next-generation software-first operating harness for AI agents.
 
 | Layer | What Cairo does |
 | --- | --- |
