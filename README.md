@@ -16,8 +16,6 @@
 
 Cairo Super Agent comes prebuilt with a powerful, free-to-use AI model and is designed to operate, learn, heal, improve, and execute continuously across workflows, companies, software systems, and connected operational environments.
 
-**Cairo Conscious Harness is the underlying technical architecture. Cairo Super Agent is the product identity and customer-facing outcome.**
-
 Instead of focusing exclusively on making models smarter, CAIRO focuses on making systems smarter.
 
 Built on the principles of:
@@ -138,7 +136,9 @@ Cairo Software Engineer is the autonomous engineering surface for large codebase
 
 ## About
 
-The next-generation software-first operating harness for AI agents.
+Cairo Super Agent is a software-first AI operating system that turns goals into governed execution across models, specialist agents, tools, memory, workflows, and connected systems. It comes ready to use with a powerful AI model at no cost, while remaining configurable for local and frontier intelligence.
+
+Learn more and use Cairo at [Cairo.sh](https://Cairo.sh).
 
 | Layer | What Cairo does |
 | --- | --- |
