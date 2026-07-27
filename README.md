@@ -1,20 +1,22 @@
 <p align="center">
-  <img src="assets/cairo-conscious-harness-hero.png" alt="CAIRO Conscious Harness" width="100%">
+  <img src="assets/cairo-super-agent-architecture.png" alt="Cairo Super Agent architecture" width="100%">
 </p>
 
-# CAIRO Conscious Harness
+# Cairo Super Agent
 
 <p align="center">
-  <a href="https://colomboai-com.github.io/CAIRO-Conscious-Harness/"><img src="https://img.shields.io/badge/GitHub%20Pages-live-6EA8FF?style=for-the-badge" alt="GitHub Pages"></a>
+  <a href="https://colomboai-com.github.io/Cairo-Super-Agent/"><img src="https://img.shields.io/badge/GitHub%20Pages-live-6EA8FF?style=for-the-badge" alt="GitHub Pages"></a>
   <a href="https://Cairo.sh"><img src="https://img.shields.io/badge/WebUI-Cairo.sh-7C5CFF?style=for-the-badge" alt="Cairo WebUI"></a>
   <a href="https://Cairo.sh/download"><img src="https://img.shields.io/badge/Desktop%20Download-Cairo.sh-35D0FF?style=for-the-badge" alt="Cairo desktop download"></a>
   <a href="https://github.com/ColomboAI-com/cairo-releases/releases/latest"><img src="https://img.shields.io/badge/Windows%20%2B%20Linux-Latest%20Release-35D0FF?style=for-the-badge" alt="Cairo Windows and Linux desktop download"></a>
   <a href="https://github.com/ColomboAI-com/cairo-releases/releases/download/v2.0.3/Cairo-2.0.3-mac-arm64.dmg"><img src="https://img.shields.io/badge/Mac%20Desktop-Apple%20Silicon%20DMG-20C997?style=for-the-badge" alt="Cairo Mac desktop download"></a>
 </p>
 
-> The World's First Software-First Operational Consciousness Infrastructure.
+> Proprietary operational intelligence designed around the way you actually work.
 
-CAIRO is a new category of intelligent system designed to operate, learn, heal, improve, and execute continuously across workflows, companies, software systems, and connected operational environments.
+Cairo Super Agent is a proprietary intelligence system designed to operate, learn, heal, improve, and execute continuously across workflows, companies, software systems, and connected operational environments.
+
+**Cairo Conscious Harness is the underlying technical architecture. Cairo Super Agent is the product identity and customer-facing outcome.**
 
 Instead of focusing exclusively on making models smarter, CAIRO focuses on making systems smarter.
 
@@ -102,7 +104,7 @@ The future of intelligence is:
 
 ## Better Operational Systems.
 
-[Open the public site](https://colomboai-com.github.io/CAIRO-Conscious-Harness/) | [Use Cairo WebUI](https://Cairo.sh) | [Download Cairo Desktop](https://Cairo.sh/download) | [Windows/Linux release](https://github.com/ColomboAI-com/cairo-releases/releases/latest) | [Mac Apple Silicon DMG](https://github.com/ColomboAI-com/cairo-releases/releases/download/v2.0.3/Cairo-2.0.3-mac-arm64.dmg)
+[Open the public site](https://colomboai-com.github.io/Cairo-Super-Agent/) | [Use Cairo WebUI](https://Cairo.sh) | [Download Cairo Desktop](https://Cairo.sh/download) | [Windows/Linux release](https://github.com/ColomboAI-com/cairo-releases/releases/latest) | [Mac Apple Silicon DMG](https://github.com/ColomboAI-com/cairo-releases/releases/download/v2.0.3/Cairo-2.0.3-mac-arm64.dmg)
 
 ---
 
@@ -136,7 +138,7 @@ Cairo Software Engineer is the autonomous engineering surface for large codebase
 
 ## About
 
-CAIRO Conscious Harness is not a chatbot, a simple coding assistant, or a thin wrapper around a model API. It is an operating harness for intelligent work.
+Cairo Super Agent is not a chatbot, a simple coding assistant, or a thin wrapper around a model API. It is a proprietary operational intelligence system built on the Cairo Conscious Harness architecture.
 
 | Layer | What Cairo does |
 | --- | --- |
@@ -193,7 +195,7 @@ flowchart LR
 
 ## Why Cairo Is Different
 
-| Capability | Traditional chatbot | Coding-only agent | Agent framework | CAIRO Conscious Harness |
+| Capability | Traditional chatbot | Coding-only agent | Agent framework | Cairo Super Agent |
 | --- | --- | --- | --- | --- |
 | User input | Prompt | Coding request | Developer-defined workflow | Goal |
 | Main job | Generate text | Help with code | Provide building blocks | Operate across work, code, tools, memory, and systems |
